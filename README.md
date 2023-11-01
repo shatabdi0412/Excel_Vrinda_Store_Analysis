@@ -24,7 +24,8 @@ Merge all pivot tables into one dashboard and apply a slicer to make the dashboa
 
 # Dashboard
 
-![Vrinda_Store_Dashboard](https://github.com/shatabdi0412/Excel_Vrinda_Store_Analysis/assets/134500115/8ffab485-a42c-483c-a84a-3692ae1e4d21)
+![Vrinda_Store_Dashboard](https://github.com/shatabdi0412/Excel_Vrinda_Store_Analysis/assets/134500115/a9225fac-888d-4e37-8249-7087b58fa9a7)
+
 
 # Project Insight
 
